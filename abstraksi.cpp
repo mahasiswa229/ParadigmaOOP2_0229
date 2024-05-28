@@ -21,3 +21,7 @@ class AbstraksiKlas
     }
 };
 
+int main()
+{
+    
+}
