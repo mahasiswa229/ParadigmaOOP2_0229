@@ -12,6 +12,9 @@ class baseClass final
 
 class deriviedClass : public baseClass
 {
-
+    void perkenalan()
+    {
+        cout << "Halo saya function dari derivied class" ;
+    }
 };
 
