@@ -20,5 +20,8 @@ class deriviedClass : public baseClass
 
 int main()
 {
-    
+    deriviedClass a;
+    a.perkenalan();
+
+    return 0;
 }
