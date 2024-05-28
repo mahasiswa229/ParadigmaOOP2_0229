@@ -18,3 +18,7 @@ class deriviedClass : public baseClass
     }
 };
 
+int main()
+{
+    
+}
